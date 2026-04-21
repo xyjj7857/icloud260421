@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "2030",
+    "apiKey": "oDQleHC2fKUyLORiNvYxDhbjMwd0tSJerZ16UpDeodVpftUt5rajHDac8f0qhPZX",
+    "apiSecret": "APwIfMbrtqw3oo0Xi3xmm4JgyXepOI1m0GVAurggIyw0VWJ1hWU0QpXJ3e7Yxoes",
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "name": "700-4-9",
+    "apiKey": "RiSgQhhUL4WPCbO4qXAvR2NEkBitprjoAZtYXxpwnuryQl6CZ29qDF18hK0ecC7b",
+    "apiSecret": "pLD9a2O55Eob1NXQif3HqSVbYj9feGY2LwS95AF2gVAsxZn5qG40W3SJXcwaBsYx",
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "name": "2000",
+    "apiKey": "H7zkNQdrS9TIGWXiZEBaGjpQz6HSmku8rxKDOli11Vt01Im7JRGZO6niWiqbm4pB",
+    "apiSecret": "4YGbbbJPKXKfT3KkxHd8TvC1cBaGuaXdTdaRZNKNNjzxJlSInzNxqNgpFhqOBG6f",
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "name": "2500-7-3",
+    "apiKey": "yBd9wVfEmdS9LvS45HhhHsetcnbqTTclnwCvb9p40RmsQNX9MWOAyVuA6hU7kHIL",
+    "apiSecret": "bl3aoCvJldS5DrahPFVVj90X5eL8cgwMMQbCDXvGLO1b20Smp5u8TLcjVAZpPf7S",
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "name": "700-8-15",
+    "apiKey": "wA7nLA70oe8i04vzRYAjrlE2kiKIxDc2SN39L5i2LrSajJypPLw3ahHFZ3NWQNW1",
+    "apiSecret": "9ydT6ZNYLN08buNDNANF00EQyQA06ushlS0RBmqGalqblygjRDd5yoluOm64BBno",
+    "isActive": true
+  }
+]
